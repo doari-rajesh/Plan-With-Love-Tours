@@ -5,7 +5,7 @@ const Tours = ({ tours, removeTour }) => {
   console.log("Tours");
   return (
     <div className="container">
-      <div>
+      <div className="container-title">
         <h1 className="title">Plan With Love</h1>
       </div>
       <div className="cards">
